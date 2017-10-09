@@ -1,0 +1,16 @@
+{
+    "name": "indexbuilder",
+    "version": "1.0.0",
+    "description": "indexes and array of objects",
+    "repository": "dotmilk/indexBuilder",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/.bin/mocha"
+    },
+    "author": "Seth Price",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^4.1.2",
+        "mocha": "^4.0.1"
+    }
+}
